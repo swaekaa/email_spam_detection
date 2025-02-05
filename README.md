@@ -1,16 +1,24 @@
 # 📧 Email Spam Detection Web App 🚫
 
-# #Welcome to the Email Spam Detection Web App! This simple and interactive app allows you to check whether the email you've received is spam or not. It uses a machine learning model based on the Naive Bayes algorithm to classify emails as either "Spam" or "Not Spam" (Ham).
+
+## Welcome to the Email Spam Detection Web App! This simple and interactive app allows you to check whether the email you've received is spam or not.
+## It uses a machine learning model based on the Naive Bayes algorithm to classify emails as either "Spam" or "Not Spam" (Ham).
+
+
 
 ## 🌟 Key Features
 - Spam Detection: Paste the content of your email to check if it's spam. 📩
 - Easy-to-Use Interface: Just type or paste your email text and get results instantly! ⏱️
 - Fast & Efficient: Real-time spam detection without any complex setup. ⚡
 
+
+
 ## ⚙️ Technologies Used
 - Streamlit: For building the interactive web interface. 🌐
 - Naive Bayes Classifier: A machine learning algorithm to classify emails. 🤖
 - Python: The programming language used to build the backend of the app. 🐍
+
+
 
 ## 🚀 How to Get Started
 
@@ -32,8 +40,12 @@ This will launch the app in your default web browser. If it doesn't open automat
 - Click on the "Check if Spam" button. 🖱️
 - Instantly, you'll see whether the email is classified as Spam or Not Spam (Ham). 📊
 
+
+
 ## 🔄 Retraining the Model
 You can also retrain the model using your own dataset. Here's how you can do it:
+
+
 
 ## Steps to Retrain the Model
 1. Place your email dataset in the data/ folder. 📂
@@ -41,10 +53,16 @@ You can also retrain the model using your own dataset. Here's how you can do it:
 python train_model.py
 This will train the model with your dataset, and the updated model will be saved for use. 🔄
 
+
+
 ## 📝 License
 This project is open-source and available under the MIT License. See the LICENSE file for more information. 📜
 
+
+
 ## 🤝 Contributing
 We welcome contributions! If you find any bugs or want to add features, feel free to fork the repo and submit a pull request. 🔧
+
+
 
 ## Thank you for using the Email Spam Detection Web App! 📨🚫
