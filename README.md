@@ -1,4 +1,4 @@
-# email_spam_detection
+
 # Email Spam Detection Web Application
 
 This is a web application that allows users to check if the email they received is spam or not. The application uses a Naive Bayes classifier to classify the email text as either spam or ham (non-spam).
@@ -24,5 +24,5 @@ This is a web application that allows users to check if the email they received 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/moanturtle/email_spam_detection.git
+   https://github.com/moanturtle/email_spam_detection.git
 
