@@ -24,5 +24,5 @@ This is a web application that allows users to check if the email they received 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.commoanturtle/email_spam_detection.git
+   git clone https://github.com/moanturtle/email_spam_detection.git
 
